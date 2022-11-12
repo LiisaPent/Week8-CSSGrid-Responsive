@@ -19,7 +19,7 @@ body {
     display: grid;
     gap: 7px;
     grid-template-columns: 1fr 1fr 1fr 0.5fr;
-    grid-template-rows: 0.5fr 1fr 1fr 1fr 1fr 0.7fr;
+    grid-template-rows: 0.5fr 1.3fr 1fr 1fr 1fr 0.7fr;
     grid-template-areas: 
         "header menu menu menu"
         "hero hero hero hero"
